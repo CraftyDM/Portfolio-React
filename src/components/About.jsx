@@ -2,15 +2,13 @@ import React from "react";
 
 export default function About() {
 
-
-
     return (
         <div className="container">
             <div>
-                <img src="./img/portfolioCover.jpg" type="image" className="img-fluid round mx-auto d-block" alt="portrait"/>
+                <img src={`${process.env.PUBLIC_URL}/img/portfolioCover.jpg`} type="image" className="img-fluid round mx-auto d-block" alt="portrait" />
                 <h1 className=" text-center fs-1 fw-bold">
                     Hi, I'm Amberlie
-                    <br /> <h2>I am an aspiring coder/computer programmer!</h2>
+                    <br /> I am an aspiring coder/computer programmer!
                 </h1>
 
                 <p className="text fw-light"> After years of retail work and being unable to utilize my degree in English language, I made the choice to
@@ -24,7 +22,7 @@ export default function About() {
 
                 <p className="text fw-light">Outside of work, I am a mother, active gamer, hobby chef, and a bit of a crafty artist.</p>
                 <br />
-                <h2 className="divider-title text-center">My Work</h2>
+
                 <div className="footer" />
             </div>
         </div>

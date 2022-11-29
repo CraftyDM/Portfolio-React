@@ -14,8 +14,10 @@ const NavBar = styled.nav`
     
 `
 
-const NavText = styled.a`
+const NavText = styled.button`
     color: #EDE1D0;
+    border: 0;
+    background-color:  #6D8DA1;
     &:visited{
         color: #EDE1D0;
     }

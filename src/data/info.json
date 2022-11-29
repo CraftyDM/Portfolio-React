@@ -1,27 +1,27 @@
 [
     {
-        "src": "./img/codingplaceholder.jpg",
+        "src": "/img/codingplaceholder.jpg",
         "alt": "Code Editor",
         "title": "Assignment 1",
         "href": "https://github.com/CraftyDM/Challenge1",
         "linkText": "First Assignment: Submitted June 2022"
     },
     {
-        "src": "./img/codingimg2.jpg",
+        "src": "/img/codingimg2.jpg",
         "alt": "computer code on screen",
         "title": "Group Project 1",
         "href": "https://noahwesttech.github.io/We-Deserve-Arrays-Project-1/",
         "linkText": "Dose of Dopamine (Aug 2022)"
     },
     {
-        "src": "./img/codingGlasses.jpg",
+        "src": "/img/codingGlasses.jpg",
         "alt": "computer code through glasses",
         "title": "Group Project 2",
         "href": "https://ginamarie14.github.io/req-headers-cookie-monsters/",
         "linkText": "Bookify: Pocket Libary(Sep 2022)"
     },
     {
-    "src": "./img/eatsleepcode.jpg",
+    "src": "/img/eatsleepcode.jpg",
         "alt": "Eat Sleep Code Repeat",
         "title": "Group Project 3",
         "href": "https://github.com/herald-of-spring/mern-trivia",
